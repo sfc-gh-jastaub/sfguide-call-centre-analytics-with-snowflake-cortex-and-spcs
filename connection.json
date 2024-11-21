@@ -1,9 +1,9 @@
 {
-    "account": "",
-    "user": "",
-    "password": "",
-    "database": "",
-    "schema": "",
-    "warehouse": "",
+    "account": "EU_DEMO275",
+    "user": "jstaub",
+    "password": "Auckland170!",
+    "database": "ADHOC_DB",
+    "schema": "ADHOC_SCHEMA",
+    "warehouse": "ADHOC_WH",
     "role":"SPCS_PSE_ROLE"
 }  
